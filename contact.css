@@ -36,14 +36,12 @@ body{
     border-color: #11212D;
     border-width: 0 0 0.2em 0;
 }
-.insigne-img{
-    width: 8%;
-}
+
 .myHeader img{
     margin-top: 1.7em;
     margin-left: 4em;
     height: 2em;
-    width: 2;
+    width: 2em;
 }
 .myHeader h2{
     padding-left:1rem ;
@@ -153,7 +151,7 @@ containersecond h3{
 /*Mobile First(375px) */
 @media (min-width:375px) {
     .myHeader img{
-        margin-left:5.6em;
+        margin-left:5.5em;
     }
     .slidenav img{
         margin-left: 19.5em;

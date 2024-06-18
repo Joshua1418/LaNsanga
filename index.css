@@ -38,9 +38,7 @@ body{
     
   
 }
-.insigne-img{
-   width: 6%;
-}
+
 .myHeader img{
     margin-top: 1.7em;
     margin-left: 4em;
@@ -57,6 +55,7 @@ body{
 
 }
 .slidenav{
+    
     height: 0%;
     width: 100%;
     position: fixed;
@@ -190,7 +189,10 @@ containersecond h3{
 /*Mobile First(375px) */
 @media (min-width:375px) {
     .myHeader img{
-        margin-left:5.6em;
+        margin-left:5.5em;
+    }
+    .insigne-img{
+        width: 4em;
     }
     .slidenav img{
         margin-left: 19.5em;
