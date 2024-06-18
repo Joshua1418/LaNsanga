@@ -62,7 +62,7 @@ body{
     z-index: 1;
     margin-top: 5.5em;
     left: 0;
-    background-color: beige;
+    background-color: white;
     overflow-y: hidden ;
     transition:0.4s ; 
     border-style: solid;
